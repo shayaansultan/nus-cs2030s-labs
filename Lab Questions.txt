@@ -1,3 +1,6 @@
+2030S Website for AY22-23 Sem 2:
+https://nus-cs2030s.github.io/2223-s2/
+
 Lab 0 - Circle and Point:  
 https://nus-cs2030s.github.io/2223-s2/labs/lab0-question.html
 
